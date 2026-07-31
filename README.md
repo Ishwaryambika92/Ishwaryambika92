@@ -1,34 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:6A5AF9,100:00C6FF&height=300&section=header&text=Patta%20Ishwaryambika&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20AI%20%26%20ML%20Enthusiast%20•%20Data%20Science%20Student&descAlignY=56&descSize=20&animation=fadeIn" width="100%" alt="Patta Ishwaryambika Header"/>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=280&section=header&text=Patta%20Ishwaryambika&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20&animation=fadeIn" width="100%" alt="Header banner: Patta Ishwaryambika"/>
 
 <a href="https://github.com/Ishwaryambika92">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=🚀+Building+AI-Powered+Web+Applications;💻+Full+Stack+Developer+using+Django;🤖+Machine+Learning+Enthusiast;📚+Always+Learning+•+Always+Building;✨+Turning+Ideas+into+Real+Projects" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=Building+AI+Powered+Applications;Learning+Every+Day;Open+Source+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing animation of career highlights" />
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Ishwaryambika92&label=Profile+Views&style=for-the-badge&color=7F00FF" />
-
-<img src="https://img.shields.io/github/followers/Ishwaryambika92?label=Followers&style=for-the-badge&color=6A5AF9&logo=github" />
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/ishwaryambika-patta-4bb268291">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Ishwaryambika92">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:mynameisishwarya@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
 
 <br/>
 
