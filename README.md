@@ -1,21 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Patta%20Ishwaryambika&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20AI%20%26%20ML%20Enthusiast%20%E2%80%A2%20Data%20Science%20Student&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Patta%20Ishwaryambika&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20|%20AI%20%26%20ML%20Enthusiast%20|%20Data%20Science%20Student&descAlignY=58&descSize=18" width="100%" alt="Header banner"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Building+AI-Powered+Applications;%F0%9F%92%BB+Python+%26+Django+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%F0%9F%93%8A+Data+Science+Learner" alt="Typing SVG" />
+<a href="https://github.com/Ishwaryambika92">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;Python+%26+Django+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Science+Learner" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ishwaryambika92&style=for-the-badge&color=6a11cb" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Ishwaryambika92?style=for-the-badge&color=2575fc&logo=github&label=Followers" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=Ishwaryambika92&style=for-the-badge&color=6A11CB" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Ishwaryambika92?label=Followers&style=for-the-badge&color=2575FC&logo=github" alt="Followers"/>
 
 </div>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=3&width=100%" width="100%" alt=""/>
 
 ## 🔗 Connect With Me
 
@@ -39,36 +37,36 @@ I'm a **Software Developer** with a focus on **Python**, currently building back
 
 **Programming & Backend**
 <br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="SQL" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" width="40" height="40"/>&nbsp;&nbsp;
 
 **AI & Machine Learning**
 <br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="Machine Learning" alt="Machine Learning" width="40" height="40"/>&nbsp;
-<img src="https://cdn.simpleicons.org/openai/6A11CB" title="Generative AI" alt="Generative AI" width="40" height="40"/>&nbsp;
-<img src="https://cdn.simpleicons.org/langchain/2575FC" title="RAG" alt="RAG" width="40" height="40"/>&nbsp;
-<img src="https://cdn.simpleicons.org/googlecloud/00A98F" title="NLP" alt="NLP" width="40" height="40"/>&nbsp;
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6A11CB?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-2575FC?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-00A98F?style=flat-square)
 
 **Python Libraries**
 <br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" width="40" height="40"/>&nbsp;&nbsp;
+
+**Database & Development Tools**
+<br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>&nbsp;&nbsp;
 
 **Data & Visualization**
 <br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
-<img src="https://cdn.simpleicons.org/tableau/E97627" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
-
-**Database & Tools**
-<br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 <br/>
 
@@ -107,7 +105,7 @@ An AI-powered application that transforms long video and meeting recordings into
 
 ## 🧠 AI & RAG Interest
 
-I'm currently exploring **Generative AI**, **RAG**, and **NLP** to build intelligent applications that go beyond static logic — combining retrieval systems with language models to produce accurate, context-aware responses. Still learning, still experimenting, always building.
+I'm currently exploring **Generative AI**, **RAG**, and **NLP** to build intelligent applications that combine retrieval systems with language models for accurate, context-aware responses. Still learning, still experimenting, always building.
 
 <br/>
 
@@ -128,27 +126,12 @@ Working with **Python**, **Pandas**, and **NumPy** for analysis, **Matplotlib** 
 
 <br/>
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ishwaryambika92&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=6A11CB" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishwaryambika92&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Top Languages" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishwaryambika92&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=6A11CB" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
 > Focused on building strong software development fundamentals while exploring AI/ML and creating practical, real-world applications.
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer&text=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Improve%20%E2%80%A2%20Repeat&fontSize=16&fontColor=ffffff&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
