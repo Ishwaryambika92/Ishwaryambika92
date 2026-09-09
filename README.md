@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Patta%20Ishwaryambika&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20|%20AI%20%26%20ML%20Enthusiast%20|%20Data%20Science%20Student&descAlignY=58&descSize=18" width="100%" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Patta%20Ishwaryambika&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20AI%20%26%20ML%20Enthusiast%20%E2%80%A2%20Data%20Science%20Student&descAlignY=58&descSize=18" width="100%" alt="Header banner"/>
 
 <a href="https://github.com/Ishwaryambika92">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;Python+%26+Django+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Science+Learner" alt="Typing SVG"/>
@@ -19,9 +19,9 @@
 
 <div align="center">
 
-<a href="https://github.com/Ishwaryambika92"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ishwaryambika-patta-4bb268291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mynameisishwarya@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Ishwaryambika92"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/ishwaryambika-patta-4bb268291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mynameisishwarya@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 </div>
 
@@ -29,44 +29,56 @@
 
 ## 🪐 About Me
 
-I'm a **Software Developer** with a focus on **Python**, currently building backend skills with **Django** while exploring **AI/ML** and **Generative AI**. I'm learning **RAG (Retrieval-Augmented Generation)** and **NLP**, and I'm also interested in **Data Science** and **Data Analytics**. I enjoy building practical, real-world applications that combine solid engineering with intelligent features.
+I'm a Software Developer with a focus on Python, currently building backend skills with Django while exploring AI/ML and Generative AI. I'm learning RAG and NLP, and I'm also interested in Data Science and Data Analytics. I enjoy building practical, real-world applications that combine software engineering with intelligent features.
 
 <br/>
 
 ## 🛠️ Technical Skills
 
-**Programming & Backend**
-<br/>
+<div align="center">
+
+**💻 Programming &amp; Backend**
+<br/><br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="SQL" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" width="40" height="40"/>
 
-**AI & Machine Learning**
-<br/>
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-6A11CB?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-2575FC?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-00A98F?style=flat-square)
+<br/><br/>
 
-**Python Libraries**
-<br/>
+**🤖 AI &amp; Machine Learning**
+<br/><br/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning"/>&nbsp;
+<img src="https://img.shields.io/badge/Generative%20AI-6A11CB?style=flat-square&logo=openai&logoColor=white" alt="Generative AI"/>&nbsp;
+<img src="https://img.shields.io/badge/RAG-2575FC?style=flat-square" alt="RAG"/>&nbsp;
+<img src="https://img.shields.io/badge/NLP-00A98F?style=flat-square" alt="NLP"/>
+
+<br/><br/>
+
+**📚 Python Libraries**
+<br/><br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" width="40" height="40"/>
 
-**Database & Development Tools**
-<br/>
+<br/><br/>
+
+**🗄️ Database &amp; Development Tools**
+<br/><br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>
 
-**Data & Visualization**
-<br/>
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+<br/><br/>
+
+**📊 Data &amp; Visualization**
+<br/><br/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>&nbsp;
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>&nbsp;
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+
+</div>
 
 <br/>
 
@@ -74,16 +86,16 @@ I'm a **Software Developer** with a focus on **Python**, currently building back
 
 <div align="center">
 
-### 🎥 AI Video & Meeting Assistant
+### 🎥 AI Video &amp; Meeting Assistant
 
 </div>
 
-An AI-powered application that transforms long video and meeting recordings into searchable transcripts, summaries, action items, decisions, follow-ups, and intelligent question answering using **Retrieval-Augmented Generation (RAG)**.
+An AI-powered application that transforms long video and meeting recordings into searchable transcripts, summaries, action items, decisions, follow-ups, and intelligent Q&amp;A using RAG.
 
-**Main Capabilities**
+**Implemented Capabilities**
 - 🌐 Multilingual speech transcription with automatic language detection
 - 📝 AI-powered summarization
-- ✅ Action item & decision extraction
+- ✅ Action item &amp; decision extraction
 - ❓ Open question detection and follow-up identification
 - 🔍 RAG-based question answering
 - 📄 TXT/PDF report generation
@@ -103,15 +115,15 @@ An AI-powered application that transforms long video and meeting recordings into
 
 <br/>
 
-## 🧠 AI & RAG Interest
+## 🧠 AI &amp; RAG
 
-I'm currently exploring **Generative AI**, **RAG**, and **NLP** to build intelligent applications that combine retrieval systems with language models for accurate, context-aware responses. Still learning, still experimenting, always building.
+I'm currently exploring Generative AI, RAG, and NLP to build intelligent, AI-powered applications. Still learning the underlying concepts and experimenting through hands-on projects rather than claiming expertise.
 
 <br/>
 
 ## 📊 Data Analytics
 
-Working with **Python**, **Pandas**, and **NumPy** for analysis, **Matplotlib** for visualization, and **Power BI**, **Tableau**, and **Excel** for reporting and dashboards.
+Working with Python, Pandas, and NumPy for analysis, Matplotlib for visualization, and Power BI, Tableau, and Excel for reporting and dashboards.
 
 <br/>
 
@@ -126,12 +138,14 @@ Working with **Python**, **Pandas**, and **NumPy** for analysis, **Matplotlib** 
 
 <br/>
 
-> Focused on building strong software development fundamentals while exploring AI/ML and creating practical, real-world applications.
+## 🎯 Career Goal
+
+Focused on building strong software development fundamentals while exploring AI/ML and creating practical, real-world applications.
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=100&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=100&section=footer&text=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Improve%20%E2%80%A2%20Repeat&fontSize=14&fontColor=ffffff&fontAlignY=70" width="100%" alt="Footer"/>
 
 </div>
