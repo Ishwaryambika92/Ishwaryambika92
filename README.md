@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Patta%20Ishwaryambika&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20AI%20%26%20ML%20Enthusiast%20%E2%80%A2%20Data%20Science%20Student&descAlignY=58&descSize=18" width="100%" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6A11CB,100:2575FC&amp;height=200&amp;section=header&amp;text=Patta%20Ishwaryambika&amp;fontSize=38&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Software%20Developer%20%E2%80%A2%20AI%20%26%20ML%20Enthusiast%20%E2%80%A2%20Data%20Science%20Student&amp;descAlignY=58&amp;descSize=18" width="100%" alt="Header banner"/>
 
 <a href="https://github.com/Ishwaryambika92">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;Python+%26+Django+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Science+Learner" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+AI-Powered+Applications;Python+%26+Django+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Science+Learner" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ishwaryambika92&style=for-the-badge&color=6A11CB" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Ishwaryambika92?label=Followers&style=for-the-badge&color=2575FC&logo=github" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=Ishwaryambika92&amp;style=for-the-badge&amp;color=6A11CB" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Ishwaryambika92?label=Followers&amp;style=for-the-badge&amp;color=2575FC&amp;logo=github" alt="Followers"/>
 
 </div>
 
@@ -19,9 +19,9 @@
 
 <div align="center">
 
-<a href="https://github.com/Ishwaryambika92"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/ishwaryambika-patta-4bb268291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:mynameisishwarya@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/Ishwaryambika92"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/ishwaryambika-patta-4bb268291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mynameisishwarya@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/></a>
 
 </div>
 
@@ -47,8 +47,8 @@ I'm a Software Developer with a focus on Python, currently building backend skil
 
 **🤖 AI &amp; Machine Learning**
 <br/><br/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning"/>&nbsp;
-<img src="https://img.shields.io/badge/Generative%20AI-6A11CB?style=flat-square&logo=openai&logoColor=white" alt="Generative AI"/>&nbsp;
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" alt="Machine Learning"/>&nbsp;
+<img src="https://img.shields.io/badge/Generative%20AI-6A11CB?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Generative AI"/>&nbsp;
 <img src="https://img.shields.io/badge/RAG-2575FC?style=flat-square" alt="RAG"/>&nbsp;
 <img src="https://img.shields.io/badge/NLP-00A98F?style=flat-square" alt="NLP"/>
 
@@ -74,9 +74,9 @@ I'm a Software Developer with a focus on Python, currently building backend skil
 
 **📊 Data &amp; Visualization**
 <br/><br/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>&nbsp;
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>&nbsp;
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black" alt="Power BI"/>&nbsp;
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&amp;logo=tableau&amp;logoColor=white" alt="Tableau"/>&nbsp;
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=white" alt="Excel"/>
 
 </div>
 
@@ -146,6 +146,6 @@ Focused on building strong software development fundamentals while exploring AI/
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=100&section=footer&text=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Improve%20%E2%80%A2%20Repeat&fontSize=14&fontColor=ffffff&fontAlignY=70" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6A11CB,100:2575FC&amp;height=100&amp;section=footer&amp;text=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Improve%20%E2%80%A2%20Repeat&amp;fontSize=14&amp;fontColor=ffffff&amp;fontAlignY=70" width="100%" alt="Footer"/>
 
 </div>
