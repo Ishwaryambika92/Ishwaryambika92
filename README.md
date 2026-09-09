@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6A11CB,100:2575FC&amp;height=200&amp;section=header&amp;text=Patta%20Ishwaryambika&amp;fontSize=38&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Software%20Developer%20%E2%80%A2%20AI%20%26%20ML%20Enthusiast%20%E2%80%A2%20Data%20Science%20Student&amp;descAlignY=58&amp;descSize=18" width="100%" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6A11CB,100:2575FC&amp;height=180&amp;section=header&amp;text=Patta%20Ishwaryambika&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=40&amp;animation=fadeIn" width="100%" alt="Header banner"/>
+
+<h3>Software Developer &bull; AI &amp; ML Enthusiast &bull; Data Science Student</h3>
 
 <a href="https://github.com/Ishwaryambika92">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+AI-Powered+Applications;Python+%26+Django+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Science+Learner" alt="Typing SVG"/>
@@ -37,16 +39,16 @@ I'm a Software Developer with a focus on Python, currently building backend skil
 
 <div align="center">
 
-**💻 Programming &amp; Backend**
-<br/><br/>
+<h4>💻 Programming &amp; Backend</h4>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="SQL" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" width="40" height="40"/>
 
 <br/><br/>
 
-**🤖 AI &amp; Machine Learning**
-<br/><br/>
+<h4>🤖 AI &amp; Machine Learning</h4>
+
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" alt="Machine Learning"/>&nbsp;
 <img src="https://img.shields.io/badge/Generative%20AI-6A11CB?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Generative AI"/>&nbsp;
 <img src="https://img.shields.io/badge/RAG-2575FC?style=flat-square" alt="RAG"/>&nbsp;
@@ -54,8 +56,8 @@ I'm a Software Developer with a focus on Python, currently building backend skil
 
 <br/><br/>
 
-**📚 Python Libraries**
-<br/><br/>
+<h4>📚 Python Libraries</h4>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="40" height="40"/>&nbsp;&nbsp;
@@ -63,8 +65,8 @@ I'm a Software Developer with a focus on Python, currently building backend skil
 
 <br/><br/>
 
-**🗄️ Database &amp; Development Tools**
-<br/><br/>
+<h4>🗄️ Database &amp; Development Tools</h4>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>&nbsp;&nbsp;
@@ -72,8 +74,8 @@ I'm a Software Developer with a focus on Python, currently building backend skil
 
 <br/><br/>
 
-**📊 Data &amp; Visualization**
-<br/><br/>
+<h4>📊 Data &amp; Visualization</h4>
+
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black" alt="Power BI"/>&nbsp;
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&amp;logo=tableau&amp;logoColor=white" alt="Tableau"/>&nbsp;
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=white" alt="Excel"/>
@@ -86,7 +88,7 @@ I'm a Software Developer with a focus on Python, currently building backend skil
 
 <div align="center">
 
-### 🎥 AI Video &amp; Meeting Assistant
+<h3>🎥 AI Video &amp; Meeting Assistant</h3>
 
 </div>
 
