@@ -1,27 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=280&section=header&text=Patta%20Ishwaryambika&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20&animation=fadeIn" width="100%" alt="Header banner: Patta Ishwaryambika"/>
-
-<a href="https://github.com/Ishwaryambika92">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=Building+AI+Powered+Applications;Learning+Every+Day;Open+Source+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing animation of career highlights" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:6A5AF9,100:00C6FF&height=280&section=header&text=Patta%20Ishwaryambika&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20AI%20%26%20ML%20Enthusiast%20%E2%80%A2%20Data%20Science%20Student&descAlignY=56&descSize=20&animation=fadeIn" width="100%" alt="Patta Ishwaryambika Header"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ishwaryambika-patta-4bb268291" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=🚀+Building+AI-Powered+Applications;💻+Python+%7C+Django+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;📊+Data+Science+Learner;✨+Turning+Ideas+into+Real+Projects" alt="Typing SVG"/>
+
+<br/><br/>
+
+<a href="https://github.com/Ishwaryambika92">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://github.com/Ishwaryambika92" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-6A11CB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+
+<a href="https://www.linkedin.com/in/ishwaryambika-patta-4bb268291">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:mynameisishwarya@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-2575FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact"/>
+
+<a href="mailto:mynameisishwarya@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ishwaryambika92&label=Profile%20Views&color=6A11CB&style=for-the-badge" alt="Profile view counter"/>
-<img src="https://img.shields.io/github/followers/Ishwaryambika92?label=Followers&style=for-the-badge&color=2575FC&logo=github" alt="GitHub followers count"/>
+<img src="https://komarev.com/ghpvc/?username=Ishwaryambika92&label=Profile%20Views&style=for-the-badge&color=7F00FF" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/Ishwaryambika92?label=Followers&style=for-the-badge&color=6A5AF9&logo=github" alt="GitHub Followers"/>
 
 </div>
 
@@ -31,183 +34,139 @@
 
 ## 🪐 About Me
 
-- 🎓 **Final Year B.Tech CSE (Data Science)** student
-- 💻 Passionate about **Full Stack Development** using **Django**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, NLP** and **Data Analytics**
-- 🌱 **Currently learning:**
-  - Python
-  - Django
-  - Data Structures & Algorithms
-  - Machine Learning
-  - SQL
-  - REST APIs
-- 🚀 Love building **scalable, real-world applications**
-- 🎯 **Career Objective:** Become a Software Engineer specializing in **AI-powered web applications**
+Hi! I'm **Patta Ishwaryambika**, a Software Developer and AI/ML enthusiast passionate about building practical applications using Python and modern AI technologies.
 
-```python
-class Ishwaryambika:
-    def __init__(self):
-        self.role  = "Aspiring SWE"
-        self.stack = ["Python", "Django"]
-        self.focus = ["AI", "ML", "NLP"]
-        self.goal  = "Build impactful, AI-powered software"
+- 💻 Interested in **Software & Backend Development**
+- 🐍 Working primarily with **Python**
+- 🌐 Building applications using **Django**
+- 🤖 Exploring **AI, Machine Learning & Generative AI**
+- 🧠 Interested in **RAG, NLP & intelligent applications**
+- 📊 Learning **Data Science & Data Analytics**
+- 🚀 Passionate about learning, building, and solving real-world problems
 
-    def say_hi(self):
-        print("Thanks for stopping by! 👋")
-```
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2575FC&height=3&width=100%" width="100%" alt=""/>
+## 🛠️ Technical Skills
 
-## 🚀 Featured Projects
+### 💻 Programming & Backend
 
-### ⭐ [TruthLens AI](https://github.com/Ishwaryambika92) &nbsp; <img src="https://img.shields.io/badge/Featured-Project-8A5CF6?style=flat-square" alt="Featured project"/>
-**AI-powered Fake News Detection & Fact Verification Platform**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
 
-📰 A full-stack AI application that detects misinformation, scores content credibility, and explains its reasoning to the end user.
+### 🤖 AI & Machine Learning
 
-**Key Features**
-- ✅ Fake News Detection
-- ✅ Confidence Score
-- ✅ Explainable AI
-- ✅ News Summarization
-- ✅ Clickbait Detection
-- ✅ AI-Generated Content Detection
-- ✅ User Login
-- ✅ Prediction History
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-00A896?style=for-the-badge"/>
+</p>
 
-**Tech Stack:** `Python` `Django` `Scikit-learn` `Pandas` `NumPy` `NLTK` `SQLite` `HTML` `CSS` `JavaScript` `Bootstrap`
+### 📚 Python Libraries
 
-<br/>
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### 🗄️ Database & Development Tools
 
-### 🏨 Hotel Booking System
-Full-featured hotel booking platform built with **Django**, including authentication, room booking, and an admin management dashboard.
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-`Django` `Python` `SQLite` `Bootstrap`
+### 📊 Data & Visualization
 
-</td>
-<td width="50%" valign="top">
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
 
-### 📅 Quick Event Planner
-An event management system built with **Django** for creating, organizing, and tracking events end-to-end.
+---
 
-`Django` `Python` `HTML/CSS`
+## 🚀 Featured Project
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 🎥 AI Video & Meeting Assistant
 
-### ⚛️ Final QSV — Quantum State Visualizer
-An interactive tool for visualizing quantum states, built to make quantum computing concepts easier to understand.
+An AI-powered application that transforms long video and meeting recordings into searchable and actionable information.
 
-`Python` `Data Visualization`
+### Key Features
 
-</td>
-<td width="50%" valign="top">
+- 🎙️ Multilingual speech transcription
+- 🌍 Automatic language detection
+- 📝 AI-powered summaries
+- ✅ Action item extraction
+- 📌 Decision extraction
+- ❓ Open question detection
+- 🔄 Follow-up identification
+- 💬 RAG-based question answering
+- 📄 TXT & PDF report generation
+- 🎬 Video, audio & YouTube processing
 
-### 🔭 More Coming Soon
-Actively building and exploring new ideas.
+### Technologies
 
-[![View all repos](https://img.shields.io/badge/View_All_Repositories-6A11CB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishwaryambika92?tab=repositories)
+**Python • Gemini • Whisper • Sarvam AI • ChromaDB • HuggingFace • Streamlit**
 
-</td>
-</tr>
-</table>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2575FC&height=3&width=100%" width="100%" alt=""/>
+## 📊 Data Analytics
 
-## 🛠️ Tech Stack
+I work with data analysis and visualization tools to explore datasets, identify patterns, and create meaningful insights.
 
-<div align="center">
+**Tools:** Python • Pandas • NumPy • Matplotlib • Power BI • Tableau • Excel
 
-**Programming Languages**
+---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="55" height="55"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="55" height="55"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/>
+## 🌱 Currently Learning
 
-<br/><br/>
+- 🤖 Generative AI
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🔗 LangChain
+- 🗣️ Natural Language Processing
+- 🌐 Django Backend Development
+- ☁️ AI Application Deployment
 
-**Frameworks**
+---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="55" height="55"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/>
+## 🎯 Career Goal
 
-<br/><br/>
+> To become a skilled Software Developer specializing in **Python, AI/ML, and intelligent application development**, while continuously learning and building real-world solutions.
 
-**Libraries**
+---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="55" height="55"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="55" height="55"/>&nbsp;
-<img src="https://img.shields.io/badge/NLTK-3A7D44?style=for-the-badge&logoColor=white" title="NLTK" alt="NLTK" height="28"/>
-
-<br/><br/>
-
-**Tools**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="55" height="55"/>
-
-<br/><br/>
-
-**Database**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2575FC&height=3&width=100%" width="100%" alt=""/>
-
-## 📊 GitHub Analytics
+## 🤝 Connect With Me
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Ishwaryambika92&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" alt="Ishwaryambika92's GitHub stats"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ishwaryambika92&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Ishwaryambika92's most used languages"/>
+<a href="https://github.com/Ishwaryambika92">
+<img src="https://img.shields.io/badge/GitHub-Ishwaryambika92-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/ishwaryambika-patta-4bb268291">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<img src="https://streak-stats.demolab.com/?user=Ishwaryambika92&theme=tokyonight&hide_border=true" width="90%" alt="Ishwaryambika92's GitHub streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishwaryambika92&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Ishwaryambika92's contribution activity graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ishwaryambika92&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%" alt="Ishwaryambika92's GitHub trophies"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2575FC&height=3&width=100%" width="100%" alt=""/>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ishwaryambika-patta-4bb268291" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Ishwaryambika92" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
-</a>&nbsp;&nbsp;
-<a href="mailto:mynameisishwarya@gmail.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" title="Gmail" alt="Gmail" width="50" height="50"/>
+<a href="mailto:mynameisishwarya@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=150&section=footer&text=Code.%20Learn.%20Build.%20Inspire.&fontSize=22&fontColor=ffffff&fontAlignY=75&animation=fadeIn" width="100%" alt="Footer: Code. Learn. Build. Inspire."/>
+<div align="center">
+
+### 💡 Learn • Build • Improve • Repeat
+
+⭐ Thanks for visiting my profile!
+
+</div>
